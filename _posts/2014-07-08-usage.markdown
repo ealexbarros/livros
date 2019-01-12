@@ -6,7 +6,7 @@ categories:
 ---
 
 ## Getting Started
-
+teste para ver o que acontece
 (Assuming you know what Jekyll and Github pages are.)
 
 * Download this theme's zip file from [here](http://goo.gl/iC85jv) or clone the repository using ```git clone https://github.com/brijeshb42/bitwiser.git```. If you are cloning, then make sure to delete the ```gh-pages``` branch as it includes the files for the theme website.
