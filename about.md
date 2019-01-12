@@ -1,10 +1,6 @@
 ---
 layout: page
-title: About
-sitemap:
-    priority: 1.0
-    changefreq: weekly
-    lastmod: 2014-09-07T16:31:30+05:30
+title: About me 
 ---
-# About
-This is a demo ABOUT page. Edit ```about.html``` to change its contents.
+
+This is a static page. It could be an 'about page' if you'd like.

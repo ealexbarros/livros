@@ -1,37 +1,16 @@
-##The website title
+name: Your New Jekyll Site
+description: Blogging about stuffs
+meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
-##Markdown processor
 markdown: kramdown
-##syntax highlighter. change it to pygments
 highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://yourblog-domain.com'
+google_analytics: 'UA-XXXXXXXX-X'
+gems: [jekyll-paginate]
 
-##define base_url for valid usage in sitemap.xml and robots.txt
-base_url: 
-sass:
-  sass_dir: _sass
-  style: :compressed
-paginate: 5
-paginate_path: "page:num"
-##The website description (to be used in meta tags)
-description: Put website description for your home page. (about 50 words or more)
-##Some frequently used keywords on your website
-keywords: livros, financas, investimentos, sucesso, negócios, in metatags
-
-##define this for disqus comment support
-disqus: forumname
-
-##set this to enable google analytics
-ga_id: UA-127442926-1
-ga_domain: analyticsDomain
-
-##Some commonly used links
-links:
-  facebook: username
-  twitter: username
-  email: dossantosab@gmail.com
-  github: ealexbarros
-
-##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
-
-##comment this if you want full width posts with no sidebar
-sidebar: off
+# Details for the RSS feed generator
+url:            'blog url'
+author:         'Your Name'
