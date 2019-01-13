@@ -4,17 +4,29 @@ layout: default
 ---
 
 Como meta de ~~2018~~ 2019 decidi tentar ler os livros que já comprei ou que comecei a ler e não terminei.
-Tentando seguir a lição de realizar uma tarefa por completa e com foco. Só começarei a ler novos livros após completar o que estiver lendo.
+<br>Tentando seguir a lição de realizar uma tarefa do ínicio até o final. Só começarei a ler novos livros após completar o que estiver lendo. Registrarei aqui nessa página o que achei do livro.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+## Janeiro
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+"Se você não pode medir, não pode gerenciar", portanto vou me organizar por mês, assim poderei visualizar que minha meta está ~~indo por água abaixo~~ sendo alcançada a cada mês.
 
-# Livros que li em 2019
+### [Fora Da Curva](./another-page.html).
+#### Os Segredos Dos Grandes Investidores Do Brasil - E O Que Você Pode Aprender Com Eles
+##### Autores: Florian Bartunek, Giuliana Napolitano e Pierre Moreau
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Fevereiro
+# Março
+# Abril
+# Maio
+# Junho
+# Julho
+# Agosto
+# Setembro
+# Outubro
+# Novembro
+# Dezembro
 
 ## Header 2
 
