@@ -205,7 +205,13 @@ a {
   }
   h4 {
     margin-top: 0.1rem;
-    margin-bottom: 0.3rem;
+    margin-bottom: 0.1rem;
+    font-weight: normal;
+    color: $section-headings-color;
+  }
+  h5 {
+    margin-top: 0.1rem;
+    margin-bottom: 0.1rem;
     font-weight: normal;
     color: $section-headings-color;
   }
