@@ -16,10 +16,10 @@ Lembrando da frase clássica de gestão de projetos: _**"Se você não pode medi
 ##### Autores: Florian Bartunek, Giuliana Napolitano e Pierre Moreau
 O livro é esse aqui:<br>
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-> **Nota: 8**, eu gostei muito do livro, mas achei que poderiam ter utilizado alguns gráficos ou imagens para ilustrar os dados mencionados pelos entrevistados. 
+> **Nota: 8**, eu gostei muito do livro, mas achei que poderiam ter utilizado alguns gráficos ou imagens para ilustrar os dados mencionados pelos entrevistados. <br>
 > **Conteúdo:** O livro traz entrevistas com diversos atores do mercado financeiro desde o inicio da década de 90 até os dias de hoje. Temos grandes sócios de fundos de investimentos, grandes executivos de empresas conhecidas e outros que passaram por diretorias do Banco Central. Eu trabalhei no Itaú-Unibanco de 2012 a 2014, então gostei do livro pois acompanho o mercado financeiro desde aquela época. Acredito que para esse público, o livro é muito interessante por revelar bastidores de grandes fundos de investimentos e situações que ocorreram durante as várias crises econômicas que o Brasil e o munda passaram. Para quem não acompanha o mercado financeiro, ainda assim o livro é bom pois em diversos trechos nos revela trechos da história do Brasil e **como nossa economia foi instável nos anos 90**.<br>
-Em última instância, o livro ainda nos revela como grande parte dos executivos de sucesso se consideram pessoas normais e alguns não eram excepcionais no início de sua carreira ou educação. Através de muito trabalho duro, persistência e uma pitada de sorte todos podem chegar lá. Falando de sorte, em vários trechos os autores revelam que acabaram ganhando dinheiro por sorte, estando na hora certa no lugar certo.
-> **Melhores lições:**
+Em última instância, o livro ainda nos revela como grande parte dos executivos de sucesso se consideram pessoas normais e alguns não eram excepcionais no início de sua carreira ou educação. Através de muito trabalho duro, persistência e uma pitada de sorte todos podem chegar lá. Falando de sorte, em vários trechos os autores revelam que acabaram ganhando dinheiro por sorte, estando na hora certa no lugar certo.<br>
+> **Melhores lições:**   <br>
 > **O que não gostei:**
 >
 >
