@@ -1,8 +1,10 @@
 ---
 layout: default
+**bold**, _italic_, or ~~strikethrough~~.
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Como meta de ~~2018~~ 2019 decidi tentar ler os livros que já comprei ou que comecei a ler e não terminei.
+Tentando seguir a lição de realizar uma tarefa por completa e com foco. Só começarei a ler novos livros após completar o que estiver lendo.
 
 [Link to another page](./another-page.html).
 
@@ -10,7 +12,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Livros que li em 2019
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
