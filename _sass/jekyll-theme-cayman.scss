@@ -113,7 +113,7 @@ a {
 
   @include large {
     padding: 3rem 4rem;
-  }
+  } 
 
   @include medium {
     padding: 3rem 4rem;
@@ -189,7 +189,6 @@ a {
 
   h1,
   h2,
-  h3,
   h4,
   h5,
   h6 {
@@ -198,6 +197,15 @@ a {
     font-weight: normal;
     color: $section-headings-color;
   }
+
+  h3 {
+    margin-top: 0.8rem;
+    margin-bottom: 0.5rem;
+    font-weight: normal;
+    color: $section-headings-color;
+  }
+
+
 
   p {
     margin-bottom: 1em;
