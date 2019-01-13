@@ -112,7 +112,11 @@ a {
   background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
 
   @include large {
-    padding: 4rem 5rem;
+    padding: 3rem 4rem;
+  }
+
+  @include medium {
+    padding: 3rem 4rem;
   }
 
   @include small {
@@ -163,7 +167,7 @@ a {
   }
 
   @include large {
-    max-width: 40rem;
+    max-width: 80rem;
     padding: 2rem 6rem;
     margin: 0 auto;
     font-size: 1.1rem;
