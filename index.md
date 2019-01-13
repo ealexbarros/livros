@@ -8,11 +8,11 @@ Como meta de ~~2018~~ 2019 decidi tentar ler os livros que já comprei ou que co
 
 [Link to another page](./another-page.html).
 
-## Janeiro
+## **Janeiro**
 
-"Se você não pode medir, não pode gerenciar", portanto vou me organizar por mês, assim poderei visualizar que minha meta está ~~indo por água abaixo~~ sendo alcançada a cada mês.
+Lembrando da frase clássica de gestão de projetos: _**"Se você não pode medir, não pode gerenciar"**_, portanto vou me organizar por mês, assim poderei visualizar que minha meta está ~~indo por água abaixo~~ sendo alcançada a cada mês e fazer algum ajuste caso isso não ocorra.
 
-### Fora Da Curva<br> Os Segredos Dos Grandes Investidores Do Brasil - E O Que Você Pode Aprender Com Eles
+### - 1. Fora Da Curva<br> Os Segredos Dos Grandes Investidores Do Brasil - E O Que Você Pode Aprender Com Eles
 ##### Autores: Florian Bartunek, Giuliana Napolitano e Pierre Moreau
 
 # Fevereiro
