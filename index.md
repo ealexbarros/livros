@@ -17,7 +17,7 @@ Lembrando da frase clássica de gestão de projetos: _**"Se você não pode medi
 O livro é esse aqui:<br>
 <html>
 <body>
-<img src="/img/fora_da_curva.png" alt="Livro Fora da Curva" width=60 height=40>
+<img src="https://raw.githubusercontent.com/ealexbarros/livros/master/img/fora_da_curva.png" alt="Livro Fora da Curva" width=60 height=40>
 </body>
   </html>
 > **Nota: 8**, eu gostei muito do livro, mas achei que poderiam ter utilizado alguns gráficos ou imagens para ilustrar os dados mencionados pelos entrevistados. <br>
@@ -122,7 +122,7 @@ end
 
 ### Small image
 
-![Octocat](https://github.com/ealexbarros/livros/blob/master/img/fora_da_curva.png)
+![Octocat](https://raw.githubusercontent.com/ealexbarros/livros/master/img/fora_da_curva.png)
 
 ### Large image
 
